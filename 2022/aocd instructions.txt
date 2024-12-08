@@ -1,0 +1,7 @@
+For Pythonista, I have patched utils.py by outcommenting
+import tzlocal
+
+File .config/aocd/token should contain 53616c7465645f5fd9299d6bd2ec3a698fea81f278beccbd43769762b83fafc20b22a1553e5c2ec42e4f53f9fc3f28ed77a7c57c979baff86c30e665313d6cf8
+
+Note:
+cached files are also in .config.aocd
