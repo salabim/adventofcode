@@ -29,6 +29,7 @@ def number_of_stones(number_of_blinks):
 
 with peek():
     peek(number_of_stones(25), to_clipboard=True)
+with peek():
     peek(number_of_stones(75), to_clipboard=True)
 
     
