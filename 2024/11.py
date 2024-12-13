@@ -6,7 +6,7 @@ import peek
 data = aocd.get_data(year=2024, day=11)
 
 
-# @functools.lru_cache
+@functools.lru_cache
 def next_stone(stone):
     if stone == "0":
         return ["1"]
